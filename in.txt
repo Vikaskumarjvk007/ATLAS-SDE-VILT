@@ -1,0 +1,1 @@
+javac c:\ATLAS\CODING_PRACTICES\JavaPrograms\18-06-2025\WriteByte_1.java && java -cp c:\ATLAS\CODING_PRACTICES\JavaPrograms\18-06-2025 WriteByte_1
